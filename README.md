@@ -1,5 +1,5 @@
-# homebrew-karsyboy
+# homebrew-tap
 ```bash
-brew tap karsyboy/karsyboy
+brew tap karsyboy/homebrew-tap
 brew install color-ssh
 ```
